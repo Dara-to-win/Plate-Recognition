@@ -4,7 +4,6 @@
 -- algorithm_test文件夹中是测试识别算法的测试集
 
 -- cnn文件夹中是cnn字符识别算法，其中train_dir中存放的预训练好的参数文件13_0.213.hdf5，由于该文件较大，我存放于百度网盘中，链接: https://pan.baidu.com/s/1XlSbPg5nvS7ayyYqRR0GJw?pwd=k9px 提取码: k9px 
-
       license_plate_model.py是检测模型，prediction.py是识别车牌字符的代码。
       
 -- models文件夹中存放的是YOLOv5算法相关的模型代码
