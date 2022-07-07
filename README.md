@@ -33,3 +33,4 @@
 
 -- svm.dat和svmchinese.dat是SVM算法训练好后的参数
 
+更多信息可以看我的博客介绍：https://blog.csdn.net/swust512017/article/details/125637044
