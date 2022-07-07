@@ -34,3 +34,15 @@
 -- svm.dat和svmchinese.dat是SVM算法训练好后的参数
 
 更多信息可以看我的博客介绍：https://blog.csdn.net/swust512017/article/details/125637044
+
+参考文献：
+
+[1]基于yolov5的车牌检测，https://github.com/xialuxi/yolov5-car-plate
+
+[2]CCPD（中国城市停车数据集)，https://github.com/detectRecog/CCPD
+
+[3]端到端车牌识别项目，https://github.com/MrZhousf/license_plate_recognize
+
+[4]车牌号识别python + opencv，https://blog.csdn.net/wzh191920/article/details/79589506
+
+[5]车牌号识别https://github.com/wzh191920/License-Plate-Recognition
